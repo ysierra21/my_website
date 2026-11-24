@@ -1,0 +1,25 @@
+body {
+    background-color: #C6EAD8;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 42px;
+    color: #ea8c72; 
+}
+
+h2{ color:#0d6d79}
+
+p {
+    font-size: 18px;
+    font-style: normal;
+    color:#0d6d79
+}
+
+a {
+    color: #006a07;
+    text-decoration: underline;
+}
+
